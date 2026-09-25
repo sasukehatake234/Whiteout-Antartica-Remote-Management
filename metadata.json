@@ -1,0 +1,6 @@
+{
+  "name": "WHITEOUT - Remote Intelligence for Antarctic Operations",
+  "description": "Unified digital command platform for remote management, priority intelligence, logistics, and predictive maintenance of Indian Antarctic research stations (Maitri and Bharati).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
